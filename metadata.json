@@ -1,0 +1,7 @@
+{
+  "name": "AutoElite - E-commerce Veicular",
+  "description": "Plataforma e-commerce automotiva completa com catálogo público e painel administrativo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
